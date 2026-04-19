@@ -16,3 +16,4 @@ c = a * a + b * b
 print(a)
 print(b)
 print(c)
+print(a, b, c)
