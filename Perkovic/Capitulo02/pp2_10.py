@@ -21,15 +21,13 @@ print(hipotenusa)
 
 '''(b)O valor da expressão que avalia se o comprimento da hipotenusa acima é 5'''
 
-verdadeiro = hipotenusa == 5
-
-print(verdadeiro)
+print(hipotenusa == 5)
 
 '''(c)A área de um disco com raio a'''
 
 raio = 5
 
-area_circulo = math.pi * raio * raio
+area_circulo = math.pi * raio**2
 
 print(area_circulo)
 
