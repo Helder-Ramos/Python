@@ -1,0 +1,1 @@
+'''O problema prático 3.12 pede para fazer um diagrama. Foi feito no papel'''
